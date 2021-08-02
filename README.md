@@ -7,7 +7,7 @@
 - Library : caTools, dplyr, psych, glmnet
 
 ### 🍀Input :
-- Dataset : Price in Boston (.csv) [link dataset](https://github.com/Zullinira/Regularized-Linear-Regression-in-R/blob/main/boston.csv)
+- Dataset : House Price in Boston (.csv) [link dataset](https://github.com/Zullinira/Regularized-Linear-Regression-in-R/blob/main/boston.csv)
 
 ### 🍀Output :
 - Price house predict in Boston
